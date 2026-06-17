@@ -18,6 +18,7 @@ Los usuarios pueden:
 - Usar emojis con un solo clic.
 
 https://github.com/user-attachments/assets/c8246225-fb87-4f6a-9510-870e82f38539
+
 ---
 
 ## ¿Por qué es interesante técnicamente?
